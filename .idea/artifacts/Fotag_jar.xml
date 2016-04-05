@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Fotag:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fotag_jar</output-path>
+    <root id="archive" name="Fotag.jar">
+      <element id="module-output" name="Fotag" />
+    </root>
+  </artifact>
+</component>
